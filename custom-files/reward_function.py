@@ -31,3 +31,4 @@ def reward_function(params):
         reward *= 0.8
 
     return float(reward)
+
